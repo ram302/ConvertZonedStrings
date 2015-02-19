@@ -1,0 +1,9 @@
+Script function to convert from zoned number strings (e.g., 9999999I) to number (e.g., 999999.99).
+
+
+Usage: php zoned_conv.php zonedstring
+
+
+Notes:
+
+	- Currently tested from a 32-bit system, and works within the 32-bit integer limit -2,147,483,648 through 2,147,483,647.
