@@ -27,6 +27,8 @@
 		exit(1);
 	}
 	
+	exit(0);
+	
 	function from_zoned($str)
 	{
 		if(!is_string($str))
